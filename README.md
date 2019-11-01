@@ -15,7 +15,8 @@ finder.find("sad") will return and array ["asd"]
 
 ## To Run tests:
 Ensure Python3, pip and virtualenv are installed
-* Run "git clone"
+* Run "git clone https://github.com/cathalryan9/StringFinder.git"
+* Run "cd StringFinder"
 * Run "virtualenv venv" (This creates a virtual environment for your system configuration is not effected by installing/updating new packages  )
 * If on Windows run "venv\Scripts\activate.bat". On Mac/Linux run "source venv/bin/activate" 
 * Run "pip install -r requirements.txt"
